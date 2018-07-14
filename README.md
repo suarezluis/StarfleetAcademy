@@ -1,4 +1,5 @@
 # StarfleetAcademy
+
 The Starfleet Academy Program
 Write a program to determine if a student will be accepted or rejected into Starfleet Academy. The decision will be based on GPA, SAT score, Age, and Planet of origin. The basic admission requirements are:
 • GPA must be at least 2.0
